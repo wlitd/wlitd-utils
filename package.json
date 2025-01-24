@@ -9,8 +9,10 @@
   ],
   "type": "module",
   "repository": {
-    "url": "https://github.com/wlitd/wlitd-utils#readme"
+    "type": "git",
+    "url": "https://github.com/wlitd/wlitd-utils.git"
   },
+  "homepage": "https://github.com/wlitd/wlitd-utils#readme",
   "scripts": {
     "build": "tsc",
     "test": "jest",
