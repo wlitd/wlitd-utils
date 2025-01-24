@@ -1,6 +1,6 @@
 {
   "name": "wlitd-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "数字或字符串转中文大写金额",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
