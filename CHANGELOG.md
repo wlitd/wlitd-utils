@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/wlitd/wlitd-utils/compare/v1.0.3...v1.0.4) (2025-01-24)
+
+
+### Others
+
+* 添加repository字段到package.json ([6c4448f](https://github.com/wlitd/wlitd-utils/commit/6c4448fb3e15b303b4938f9aa91034ddd2796119))
+* **release:** v1.0.3 publish ([8989cd8](https://github.com/wlitd/wlitd-utils/commit/8989cd8781058650824ee186bf4b02ba9fdf8892))
+
+
+### ✏️ Documentation | 文档
+
+* 更新README ([b027fa9](https://github.com/wlitd/wlitd-utils/commit/b027fa9bb7bb628a0922b17de8c78b05c1afc460))
+* 添加LICENSE文件 ([56b327e](https://github.com/wlitd/wlitd-utils/commit/56b327e22c0a45822e59f97482b1f1d29ddd5e9a))
+
 ### [1.0.3](https://github.com/wlitd/wlitd-utils/compare/v1.0.2...v1.0.3) (2025-01-24)
 
 
