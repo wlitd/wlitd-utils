@@ -37,7 +37,7 @@ jobs:
         run: echo npm 推送成功
 
       - name: 读取当前版本号
-        id: create_release
+        id: version
         uses: ashley-taylor/read-json-property-action@v1.0
         with:
           path: ./package.json
